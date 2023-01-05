@@ -75,3 +75,4 @@ npm run build fails to minify
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 github repository link: https://github.com/ashleymullikin/book-search-engine
+live link: https://ashleymullikin.github.io/book-search-engine/
